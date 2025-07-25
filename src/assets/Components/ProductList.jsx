@@ -1,4 +1,3 @@
-// src/components/ProductList.jsx
 import ProductItem from './ProductItem';
 
 const ProductList = ({ products }) => {

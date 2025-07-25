@@ -1,4 +1,3 @@
-// src/data.js
 export const products = [
   { id: 1, name: "Blue T-Shirt", category: "Clothing", price: "R150", inStock: true },
   { id: 2, name: "Black Jeans", category: "Clothing", price: "R300", inStock: false },

@@ -1,4 +1,4 @@
-// src/components/ProductItem.jsx
+
 const ProductItem = ({ product }) => {
   return (
     <div style={{
